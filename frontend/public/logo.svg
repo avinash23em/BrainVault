@@ -1,0 +1,11 @@
+<!-- public/logo.svg -->
+<svg xmlns="http://w3.org" viewBox="0 0 32 32" fill="none">
+  <path 
+    d="M16 6C11 6 7 9 7 13C7 16 9 18 11 19V22H21V19C23 18 25 16 25 13C25 9 21 6 16 6Z" 
+    stroke="#000" 
+    stroke-width="2" 
+    stroke-linejoin="round"
+  />
+  <rect x="10" y="22" width="12" height="6" rx="1" fill="#000" />
+  <circle cx="16" cy="13" r="2" fill="#000" />
+</svg>

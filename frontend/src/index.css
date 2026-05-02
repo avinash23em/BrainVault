@@ -1,0 +1,12 @@
+@import "tailwindcss";
+ 
+@theme {
+  /* Change these hex values to your chosen colors */
+  --color-purple-200: #d4d0f5;   
+  --color-purple-500: #7B68EE;   
+  --color-purple-600: #6355C7;   
+ 
+  --color-gray-100: #f0f0f5;
+  --color-gray-200: #e4e4ec;
+  --color-gray-600: #8888a0;
+}
