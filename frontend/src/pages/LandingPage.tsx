@@ -3,7 +3,6 @@ import { Logo } from "../icons/Logo";
 import { YoutubeIcon } from "../icons/YoutubeIcon";
 import { TwitterIcon } from "../icons/TwitterIcon";
 import { DocumentIcon } from "../icons/DocumentIcon";
-import { ShareIcon } from "../icons/ShareIcon";
 import { Button } from "../components/Button";
 
 export function LandingPage() {
