@@ -171,7 +171,7 @@ export function LandingPage() {
           </div>
           <p className="text-sm text-gray-400">
             Built by{" "}
-            <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:underline">
+            <a href="https://github.com/avinash23em" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:underline">
               your name
             </a>
           </p>
