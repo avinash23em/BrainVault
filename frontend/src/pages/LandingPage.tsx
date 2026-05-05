@@ -170,7 +170,7 @@ export function LandingPage() {
             <span className="font-bold text-gray-900">BrainVaultAI</span>
           </div>
           <p className="text-sm text-gray-400">
-            Built by{" "}
+            Built by{" Avinash "}
             <a href="https://github.com/avinash23em" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:underline">
               your name
             </a>
